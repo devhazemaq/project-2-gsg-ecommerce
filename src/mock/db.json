@@ -1,0 +1,472 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "title": "Smart watches ",
+      "url": "https://via.placeholder.com/135/92c952",
+      "descount": "-25%"
+    },
+    {
+      "id": 2,
+      "title": "Laptops",
+      "url": "https://via.placeholder.com/135/92c9D0",
+      "descount": "-15%"
+    },
+    {
+      "id": 3,
+      "title": "GoPro cameras",
+      "url": "https://via.placeholder.com/135/92c9E0",
+      "descount": "-40%"
+    },
+    {
+      "id": 4,
+      "title": "accusamus",
+      "url": "https://via.placeholder.com/135/9BcC5",
+      "descount": "-75%"
+    },
+    {
+      "id": 5,
+      "title": "Canon camreras",
+      "url": "https://via.placeholder.com/135/A2f452",
+      "descount": "-25%"
+    }
+  ],
+  "outdoor": [
+    {
+      "id": 1,
+      "title": "Soft chairs",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 19"
+    },
+    {
+      "id": 2,
+      "title": "Sofa & chair",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 19"
+    },
+    {
+      "id": 3,
+      "title": "Kitchen dishes",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 19"
+    },
+    {
+      "id": 4,
+      "title": "Smart watches",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 100"
+    },
+    {
+      "id": 5,
+      "title": "Kitchen mixer",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 100"
+    },
+    {
+      "id": 6,
+      "title": "Blenders",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 39"
+    },
+    {
+      "id": 7,
+      "title": "Home appliance",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 19"
+    },
+    {
+      "id": 8,
+      "title": "Coffee maker",
+      "url": "https://via.placeholder.com/65/A2f452",
+      "price": "USD 10"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 1,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "T-shirts with multiple",
+      "title2": "colors, for men",
+      "price": "$10.30"
+    },
+    {
+      "id": 2,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Jeans shorts for men",
+      "title2": "blue color",
+      "price": "$10.30"
+    },
+    {
+      "id": 3,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Brown winter coat",
+      "title2": "medium size",
+      "price": "$12.50"
+    },
+    {
+      "id": 4,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Jeans bag for travel",
+      "title2": "for men",
+      "price": "$34.00"
+    },
+    {
+      "id": 5,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Leather wallet",
+      "title2": " ",
+      "price": "$99.00"
+    },
+    {
+      "id": 6,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Canon camera",
+      "title2": "black, 100x zoom",
+      "price": "$9.99"
+    },
+    {
+      "id": 7,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Headset for gaming",
+      "title2": "with mic",
+      "price": "$8.99"
+    },
+    {
+      "id": 8,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Smartwatch",
+      "title2": "silver color modern",
+      "price": "$10.30"
+    },
+    {
+      "id": 9,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Blue wallet for men",
+      "title2": "leather metarfial",
+      "price": "$10.30"
+    },
+    {
+      "id": 10,
+      "url": "https://via.placeholder.com/65/A2f452",
+      "title1": "Jeans bag for travel",
+      "title2": "for men",
+      "price": "$80.95"
+    }
+  ],
+  "proudLists": [
+    {
+      "userId": 1,
+      "id": 1,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "image": "https://via.placeholder.com/200/A2f452",
+      "title": "Canon Cmera EOS 2000, Black 10x zoom",
+      "priceOld": "$1128.00",
+      "price": "$998.00",
+      "orders": 154,
+      "caption1__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "caption1__2": "tempor incididunt ut labore et dolore magna aliqua",
+      "caption2__1": "GoPro HERO6 4K Action",
+      "caption2__2": "Camera - Black",
+      "discountPercentage": "-25%",
+      "evaluation": "7.5"
+    }
+  ],
+  "ProductsCardInAllData": [
+    {
+      "id": 1,
+      "image": "assets/images/lists/1.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 998.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/lists/2.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 998.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/lists/3.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 123.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/lists/4.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 998.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/lists/5.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 998.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+      "id": 6,
+      "image": "assets/images/lists/6.png",
+      "titleH": "Canon Camera EOS 2000, Black 10x zoom",
+      "titleV1": "Canon Camera EOS 2000",
+      "titleV2": "Black 10x zoom",
+      "price": {
+        "afterDiscount": 998.01,
+        "beforeDiscount": 1128
+      },
+      "orders": 154,
+      "shipping": "Free Shipping",
+      "description__1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod",
+      "description__2": "tempor incididunt ut labore et dolore magna aliqua"
+    }
+  ],
+  "youMayLike": [
+    {
+      "id": 1,
+      "image": "/assets/images/page3/youMayLike/1.png",
+      "title__1": "Product name 1",
+      "title__2": "Here colors",
+      "rangPrice": "$7.00 - $99.50"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/page3/youMayLike/2.png",
+      "title__1": "Product name 2",
+      "title__2": "Here colors",
+      "rangPrice": "$8.00 - $99.00"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/page3/youMayLike/3.png",
+      "title__1": "Product name 3",
+      "title__2": "Here colors",
+      "rangPrice": "$2.00 - $49.50"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/page3/youMayLike/4.png",
+      "title__1": "Product name 4",
+      "title__2": "Here coloe",
+      "rangPrice": "$7.00 - $99.50"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/page3/youMayLike/5.png",
+      "title__1": "Product name 5",
+      "title__2": "Here color",
+      "rangPrice": "$7.00 - $99.50"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": 1,
+      "image": "/assets/images/page3/tech/1.png",
+      "title__1": "Xiaomi Redmi 8",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/page3/tech/2.png",
+      "title__1": "Product name 2",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/page3/tech/3.png",
+      "title__1": "Product name 3",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/page3/tech/4.png",
+      "title__1": "Product name 4",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/page3/tech/5.png",
+      "title__1": "Product name 5",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/page3/tech/6.png",
+      "title__1": "Product name 6",
+      "title__2": "Here colors",
+      "rangPrice": "$32.00-$40.00"
+    }
+  ],
+  "savedForLater": [
+    {
+      "id": 1,
+      "price": "$99.50",
+      "image": "/assets/images/page4/savedForLater/1.png",
+      "title__1": "Xiaomi Tab 8",
+      "title__2": "Model project"
+    },
+    {
+      "id": 2,
+      "price": "$99.50",
+      "image": "/assets/images/page4/savedForLater/2.png",
+      "title__1": "Name poudect",
+      "title__2": "Model prouduct"
+    },
+    {
+      "id": 3,
+      "price": "$99.50",
+      "image": "/assets/images/page4/savedForLater/3.png",
+      "title__1": "Name poudect",
+      "title__2": "Model prouduct"
+    },
+    {
+      "id": 4,
+      "price": "$99.50",
+      "image": "/assets/images/page4/savedForLater/4.png",
+      "title__1": "Name poudect",
+      "title__2": "Model prouduct"
+    }
+  ],
+  "myCards": [
+    {
+      "id": 1,
+      "price": 78.99,
+      "image": "/assets/images/page4/myCard/1.png",
+      "title__1": "T-shirts with multiple colors, for men and lady"
+    },
+    {
+      "id": 2,
+      "price": 78.99,
+      "image": "/assets/images/page4/myCard/2.png",
+      "title__1": "T-shirts with multiple colors, for men and lady"
+    }
+    ,
+    {
+      "id": 3,
+      "price": 17.99,
+      "image": "/assets/images/page4/myCard/3.png",
+      "title__1": "T-shirts with multiple colors, for men and lady"
+    }
+  ]
+}
